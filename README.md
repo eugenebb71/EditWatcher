@@ -30,11 +30,13 @@ if the comment contains :EDIT:ALWAYS suffix, the message will be show every time
 
 Examples:
 
-##WARN:ALWAYS warning message here
+// ##INFO info message here
 
-##ERROR:EDIT edit message here, in modal mode
+// ##WARN:ALWAYS warning message here
 
-##STATUSBAR:EDIT:ALWAYS statusbar message here
+-- ##ERROR:EDIT edit message here, in modal mode
+
+/* ##STATUSBAR:EDIT:ALWAYS statusbar message here */
 
 
 ## Release Notes
