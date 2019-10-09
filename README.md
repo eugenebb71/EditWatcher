@@ -1,6 +1,6 @@
-# editwatcher README
+# DevAlert README
 
-This is the README for your extension "editwatcher".
+This is the README for your extension "DevAlert".
 
 ## Features
 
@@ -41,8 +41,8 @@ Examples:
 
 ## Release Notes
 
-editwatcher goes live.
+DevAlert goes live.
 
 ### 1.0.0
 
-Initial release of editwatcher
+Initial release of DevAlert
